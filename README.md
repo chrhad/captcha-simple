@@ -22,6 +22,7 @@ python train.py input_directory_path output_directory_path
 which will save the model to `model.pt`. To change this file name, specify `--output-model filename` parameter.
 
 The training takes approximately 15 minutes on a MacBook with 2.6 GHz 6-core Intel Core i7 and 16 GB memory.
+A pre-trained version can be downloaded through this [link](https://drive.google.com/file/d/1RNyvhfDjd3wQ-0WH2DE6HMi6JQ3Shp1G/view).
 
 ## Running the Model
 
